@@ -524,3 +524,15 @@ a:visited {
     height: 100vh!important;
     object-fit: cover;
 }
+.service {
+  padding: 4rem;
+  background: #fff; }
+  @media (max-width: 991.98px) {
+    .service {
+      padding: 2rem; } }
+
+#owl-slider .owl-item img{
+    display: block;
+    width: 100%;
+    height: auto;
+  }
