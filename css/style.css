@@ -553,3 +553,12 @@ a:visited {
     width: 100%; /* Full width */
     padding: 4px; /* Some padding */
   }
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, .0001);
+    color: white;
+    text-align: right;
+  }
