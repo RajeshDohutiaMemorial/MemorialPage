@@ -526,6 +526,7 @@ a:visited {
 }
 .service {
   padding: 4rem;
+  border: double;
   background: #fff; }
   @media (max-width: 991.98px) {
     .service {

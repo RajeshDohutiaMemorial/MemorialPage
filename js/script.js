@@ -8,7 +8,8 @@ $(window).load(function() {
   $(".owl-carousel").owlCarousel({
      items:1,
      nav:true,
-     loop: true
+     loop: true,
+     autoHeight: true
   });
 });
 
